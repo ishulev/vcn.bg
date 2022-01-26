@@ -20,3 +20,13 @@
         max-width: 100%;
     }
 }
+
+.euro-fund-images {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: row;
+    justify-content: space-between;
+    img {
+        max-width: 300px;
+    }
+}
