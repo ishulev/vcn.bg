@@ -3,7 +3,7 @@ import fraxinusImg from "./images/projects/fraxinus.jpg";
 import bulgariamallTowersImg from "./images/projects/bulgariamall-towers.jpg";
 import benchmarkImg from "./images/projects/benchmark.jpg";
 import capitalFortImg from "./images/projects/capital-fort-sofia.jpg";
-import osramImg from "./images/projects/osram.jpg";
+import sanminaImg from "./images/projects/osram.jpg";
 import skyForthImg from "./images/projects/sky-fort.jpg";
 import vMwareImg from "./images/projects/vmware.jpg";
 import sanStefanoImg from "./images/projects/san-stefano-sofia.jpg";
@@ -106,7 +106,7 @@ const english = {
       ],
     },
     {
-      image: osramImg,
+      image: sanminaImg,
       name: "Sanmina",
       services: [
         englishServiceNames.sks,
@@ -289,7 +289,7 @@ const bulgarian = {
       ],
     },
     {
-      image: osramImg,
+      image: sanminaImg,
       name: "Sanmina",
       services: [
         bulgarianServiceNames.sks,
