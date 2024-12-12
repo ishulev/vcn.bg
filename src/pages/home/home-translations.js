@@ -107,7 +107,7 @@ const english = {
     },
     {
       image: osramImg,
-      name: 'Factory "Osram" - Plovdiv',
+      name: "Sanmina",
       services: [
         englishServiceNames.sks,
         englishServiceNames.accessControl,
@@ -290,7 +290,7 @@ const bulgarian = {
     },
     {
       image: osramImg,
-      name: 'Factory "Osram" - Plovdiv',
+      name: "Sanmina",
       services: [
         bulgarianServiceNames.sks,
         bulgarianServiceNames.accessControl,
