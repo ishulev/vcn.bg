@@ -11,6 +11,8 @@ const englishServiceNames = {
   softIntegrationPlatform:
     "Software platforms for integration of security systems",
   bms: "BMS",
+  bis: "BIS",
+  gasDetection: "Gas Detection",
 };
 
 const bulgarianServiceNames = {
@@ -26,6 +28,8 @@ const bulgarianServiceNames = {
   softIntegrationPlatform:
     "Софтуерна платформа за интеграция на системи за охрана",
   bms: "БМС",
+  bis: "BIS",
+  gasDetection: "Газ детекция",
 };
 
 export { englishServiceNames, bulgarianServiceNames };
