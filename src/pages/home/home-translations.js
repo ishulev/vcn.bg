@@ -50,9 +50,9 @@ const equinix = {
   ],
 };
 
-const fraxinus = {
+const techOne = {
   image: fraxinusImg,
-  name: "FRAXINUS Business Center",
+  name: "Sofia Tech One",
   services: [
     "FPA 5000 Fire Alarm - Fire Detection System - Bosch Security Systems",
     "Paviro - Public Address System - Bosch Security Systems",
@@ -77,7 +77,7 @@ const english = {
       ],
     },
     equinix,
-    fraxinus,
+    techOne,
     bgMol,
     {
       image: capitalFortImg,
@@ -260,7 +260,7 @@ const bulgarian = {
       ],
     },
     equinix,
-    fraxinus,
+    { ...techOne, name: "София Тех Уан" },
     bgMol,
     {
       image: capitalFortImg,
