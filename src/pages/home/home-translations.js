@@ -4,7 +4,7 @@ import bulgariamallTowersImg from "./images/projects/bulgariamall-towers.jpg";
 import benchmarkImg from "./images/projects/benchmark.jpg";
 import capitalFortImg from "./images/projects/capital-fort-sofia.jpg";
 import osramImg from "./images/projects/osram.jpg";
-import infinityTowerImg from "./images/projects/infinity-tower.jpg";
+import skyForthImg from "./images/projects/sky-fort.jpg";
 import vMwareImg from "./images/projects/vmware.jpg";
 import sanStefanoImg from "./images/projects/san-stefano-sofia.jpg";
 import novotelImg from "./images/projects/novotel.jpg";
@@ -65,6 +65,17 @@ const fraxinus = {
 const english = {
   title: "Our projects",
   projects: [
+    {
+      image: skyForthImg,
+      name: "Sky Fort",
+      services: [
+        englishServiceNames.accessControl,
+        englishServiceNames.fireAlarm,
+        englishServiceNames.publicAddress,
+        englishServiceNames.gasDetection,
+        englishServiceNames.bis,
+      ],
+    },
     equinix,
     fraxinus,
     bgMol,
@@ -237,6 +248,17 @@ const english = {
 const bulgarian = {
   title: "Нашите проекти",
   projects: [
+    {
+      image: skyForthImg,
+      name: "Скай Форт",
+      services: [
+        bulgarianServiceNames.accessControl,
+        bulgarianServiceNames.fireAlarm,
+        bulgarianServiceNames.publicAddress,
+        bulgarianServiceNames.gasDetection,
+        bulgarianServiceNames.bis,
+      ],
+    },
     equinix,
     fraxinus,
     bgMol,
